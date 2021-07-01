@@ -47,14 +47,17 @@ h1.w3-jumbo, header h2, .bgimg2 h2{
   font-weight: 900;
   text-shadow:2px 2px 0 #444;
 }
+#date{
+  margin-bottom: 55px;
+}
 #timer{
-  margin-bottom: 75px;
+  margin-bottom: 105px;
 }
 #timeLeft{
   font-size: 2rem;
   font-weight: 900;
   text-shadow:2px 2px 0 #444;
-  margin-bottom: 125px;
+  margin-bottom: 155px;
 }
 
 #program h1{
