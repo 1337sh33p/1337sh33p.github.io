@@ -60,7 +60,7 @@ h1.w3-jumbo, header h2, .bgimg2 h2{
   margin-bottom: 155px;
 }
 
-#program h1{
+#program h1, #info h1{
   padding-top: 50px;
   padding-left: 10px;
   font-size: 3.5rem;
@@ -83,10 +83,10 @@ img.program{
   }
   #timeLeft{
     padding: 190px;
-    margin-bottom: 100px;
+    margin-bottom: 140px;
   }
   #timer{
-    margin-bottom: 150px;
+    margin-bottom: 190px;
   }
 
   #program h1{
