@@ -89,7 +89,7 @@ img.program{
     margin-bottom: 190px;
   }
 
-  #program h1{
+  #program h1, #info h1{
     font-size: 2rem;
   }
 }
